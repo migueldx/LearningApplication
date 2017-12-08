@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearningApplication</string>
+    <string name="novo">Novo</string>
+    <string name="conta">Conta</string>
+    <string name="valor">Valor</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="detalhes_da_conta">Detalhes da Conta</string>
+    <string name="contaDetalhes">Conta:</string>
+    <string name="valorDetalhes">Valor:</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
